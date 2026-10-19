@@ -1,0 +1,20 @@
+Nikhil Nair
+Data Engineer
+
+PROFESSIONAL SUMMARY
+Data Engineer with 8 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, SQL, ETL, Kafka, Pandas, AWS, Apache Spark
+
+EXPERIENCE
+8 years of professional experience.
+Worked as a Data Engineer on software development and delivery assignments.
+Applied the following technologies: Python, SQL, ETL, Kafka, Pandas, AWS, Apache Spark.
+
+PROJECTS
+Built a batch data ingestion pipeline.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+MCA

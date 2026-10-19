@@ -1,0 +1,20 @@
+Aarav Rao
+QA Automation Engineer
+
+PROFESSIONAL SUMMARY
+QA Automation Engineer with 2 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, Selenium, SQL, Docker, Pytest
+
+EXPERIENCE
+2 years of professional experience.
+Worked as a QA Automation Engineer on software development and delivery assignments.
+Applied the following technologies: Python, Selenium, SQL, Docker, Pytest.
+
+PROJECTS
+Developed automated regression tests.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+M.Tech in Computer Science

@@ -1,0 +1,20 @@
+Diya Sharma
+Data Engineer
+
+PROFESSIONAL SUMMARY
+Data Engineer with 10 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, SQL, ETL, AWS, Docker, Kafka, PostgreSQL, Pandas
+
+EXPERIENCE
+10 years of professional experience.
+Worked as a Data Engineer on software development and delivery assignments.
+Applied the following technologies: Python, SQL, ETL, AWS, Docker, Kafka, PostgreSQL, Pandas.
+
+PROJECTS
+Created an ETL workflow for analytics.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+B.Tech in Computer Science

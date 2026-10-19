@@ -1,0 +1,20 @@
+Neha Patel
+Data Engineer
+
+PROFESSIONAL SUMMARY
+Data Engineer with 2 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, SQL, AWS, Docker, Kafka
+
+EXPERIENCE
+2 years of professional experience.
+Worked as a Data Engineer on software development and delivery assignments.
+Applied the following technologies: Python, SQL, AWS, Docker, Kafka.
+
+PROJECTS
+Built a batch data ingestion pipeline.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+B.Sc. in Computer Science

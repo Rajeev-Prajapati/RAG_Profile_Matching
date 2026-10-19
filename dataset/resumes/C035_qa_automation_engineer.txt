@@ -1,0 +1,20 @@
+Kabir Mehta
+QA Automation Engineer
+
+PROFESSIONAL SUMMARY
+QA Automation Engineer with 10 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, Selenium, Testing, Pytest, SQL, REST APIs, Postman, Docker
+
+EXPERIENCE
+10 years of professional experience.
+Worked as a QA Automation Engineer on software development and delivery assignments.
+Applied the following technologies: Python, Selenium, Testing, Pytest, SQL, REST APIs, Postman, Docker.
+
+PROJECTS
+Built an API testing framework.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+B.Sc. in Computer Science

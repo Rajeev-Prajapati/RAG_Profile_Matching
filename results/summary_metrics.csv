@@ -1,0 +1,3 @@
+method,jobs_evaluated,precision_at_5,recall_at_5,hit_rate_at_5,precision_at_10,recall_at_10,hit_rate_at_10,mean_ms,median_ms,p95_ms,mrr
+semantic_only,5,0.76,0.82,1,0.5,1.0,1,44.1114,40.5566,74.3678,1.0
+hybrid,5,0.88,0.925,1,0.5,1.0,1,42.7294,39.2412,62.7384,1.0

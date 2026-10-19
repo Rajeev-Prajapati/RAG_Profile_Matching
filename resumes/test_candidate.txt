@@ -1,0 +1,11 @@
+Name: Test Candidate
+
+Skills:
+Python, FastAPI, PostgreSQL, Docker
+
+Experience:
+4 years of Python backend development.
+Developed REST APIs using FastAPI.
+
+Education:
+Bachelor of Technology in Computer Science.

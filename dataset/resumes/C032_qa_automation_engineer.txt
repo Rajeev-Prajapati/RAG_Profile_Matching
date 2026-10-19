@@ -1,0 +1,20 @@
+Ananya Singh
+QA Automation Engineer
+
+PROFESSIONAL SUMMARY
+QA Automation Engineer with 4 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, Selenium, Testing, Docker, REST APIs, SQL
+
+EXPERIENCE
+4 years of professional experience.
+Worked as a QA Automation Engineer on software development and delivery assignments.
+Applied the following technologies: Python, Selenium, Testing, Docker, REST APIs, SQL.
+
+PROJECTS
+Built an API testing framework.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+B.Tech in Computer Science

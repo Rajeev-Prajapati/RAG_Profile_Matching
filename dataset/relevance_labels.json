@@ -1,0 +1,1638 @@
+{
+    "JD001": {
+        "job_title": "Python Backend Developer",
+        "judgments": [
+            {
+                "candidate_id": "C001",
+                "resume_path": "resumes/C001_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C002",
+                "resume_path": "resumes/C002_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C003",
+                "resume_path": "resumes/C003_python_backend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C004",
+                "resume_path": "resumes/C004_python_backend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C005",
+                "resume_path": "resumes/C005_python_backend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C006",
+                "resume_path": "resumes/C006_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C007",
+                "resume_path": "resumes/C007_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C008",
+                "resume_path": "resumes/C008_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C009",
+                "resume_path": "resumes/C009_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C010",
+                "resume_path": "resumes/C010_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C011",
+                "resume_path": "resumes/C011_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C012",
+                "resume_path": "resumes/C012_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C013",
+                "resume_path": "resumes/C013_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C014",
+                "resume_path": "resumes/C014_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C015",
+                "resume_path": "resumes/C015_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C016",
+                "resume_path": "resumes/C016_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C017",
+                "resume_path": "resumes/C017_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C018",
+                "resume_path": "resumes/C018_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C019",
+                "resume_path": "resumes/C019_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C020",
+                "resume_path": "resumes/C020_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C021",
+                "resume_path": "resumes/C021_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C022",
+                "resume_path": "resumes/C022_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C023",
+                "resume_path": "resumes/C023_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C024",
+                "resume_path": "resumes/C024_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C025",
+                "resume_path": "resumes/C025_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C026",
+                "resume_path": "resumes/C026_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C027",
+                "resume_path": "resumes/C027_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C028",
+                "resume_path": "resumes/C028_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C029",
+                "resume_path": "resumes/C029_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C030",
+                "resume_path": "resumes/C030_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C031",
+                "resume_path": "resumes/C031_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C032",
+                "resume_path": "resumes/C032_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C033",
+                "resume_path": "resumes/C033_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C034",
+                "resume_path": "resumes/C034_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            },
+            {
+                "candidate_id": "C035",
+                "resume_path": "resumes/C035_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: FastAPI"
+                ]
+            }
+        ]
+    },
+    "JD002": {
+        "job_title": "Frontend Developer",
+        "judgments": [
+            {
+                "candidate_id": "C001",
+                "resume_path": "resumes/C001_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C002",
+                "resume_path": "resumes/C002_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C003",
+                "resume_path": "resumes/C003_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C004",
+                "resume_path": "resumes/C004_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C005",
+                "resume_path": "resumes/C005_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C006",
+                "resume_path": "resumes/C006_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C007",
+                "resume_path": "resumes/C007_frontend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C008",
+                "resume_path": "resumes/C008_frontend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C009",
+                "resume_path": "resumes/C009_frontend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C010",
+                "resume_path": "resumes/C010_frontend_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C011",
+                "resume_path": "resumes/C011_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C012",
+                "resume_path": "resumes/C012_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C013",
+                "resume_path": "resumes/C013_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C014",
+                "resume_path": "resumes/C014_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C015",
+                "resume_path": "resumes/C015_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C016",
+                "resume_path": "resumes/C016_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C017",
+                "resume_path": "resumes/C017_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C018",
+                "resume_path": "resumes/C018_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C019",
+                "resume_path": "resumes/C019_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C020",
+                "resume_path": "resumes/C020_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C021",
+                "resume_path": "resumes/C021_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C022",
+                "resume_path": "resumes/C022_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C023",
+                "resume_path": "resumes/C023_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C024",
+                "resume_path": "resumes/C024_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C025",
+                "resume_path": "resumes/C025_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C026",
+                "resume_path": "resumes/C026_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C027",
+                "resume_path": "resumes/C027_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C028",
+                "resume_path": "resumes/C028_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C029",
+                "resume_path": "resumes/C029_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C030",
+                "resume_path": "resumes/C030_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C031",
+                "resume_path": "resumes/C031_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C032",
+                "resume_path": "resumes/C032_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C033",
+                "resume_path": "resumes/C033_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C034",
+                "resume_path": "resumes/C034_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            },
+            {
+                "candidate_id": "C035",
+                "resume_path": "resumes/C035_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, JavaScript"
+                ]
+            }
+        ]
+    },
+    "JD003": {
+        "job_title": "Full Stack Developer",
+        "judgments": [
+            {
+                "candidate_id": "C001",
+                "resume_path": "resumes/C001_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C002",
+                "resume_path": "resumes/C002_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C003",
+                "resume_path": "resumes/C003_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C004",
+                "resume_path": "resumes/C004_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C005",
+                "resume_path": "resumes/C005_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C006",
+                "resume_path": "resumes/C006_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, SQL",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C007",
+                "resume_path": "resumes/C007_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C008",
+                "resume_path": "resumes/C008_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C009",
+                "resume_path": "resumes/C009_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C010",
+                "resume_path": "resumes/C010_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C011",
+                "resume_path": "resumes/C011_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: SQL",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C012",
+                "resume_path": "resumes/C012_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C013",
+                "resume_path": "resumes/C013_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C014",
+                "resume_path": "resumes/C014_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C015",
+                "resume_path": "resumes/C015_full_stack_developer.pdf",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C016",
+                "resume_path": "resumes/C016_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, SQL",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C017",
+                "resume_path": "resumes/C017_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C018",
+                "resume_path": "resumes/C018_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C019",
+                "resume_path": "resumes/C019_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C020",
+                "resume_path": "resumes/C020_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C021",
+                "resume_path": "resumes/C021_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, React, SQL",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C022",
+                "resume_path": "resumes/C022_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, React, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C023",
+                "resume_path": "resumes/C023_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C024",
+                "resume_path": "resumes/C024_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C025",
+                "resume_path": "resumes/C025_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, React, SQL"
+                ]
+            },
+            {
+                "candidate_id": "C026",
+                "resume_path": "resumes/C026_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C027",
+                "resume_path": "resumes/C027_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C028",
+                "resume_path": "resumes/C028_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C029",
+                "resume_path": "resumes/C029_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C030",
+                "resume_path": "resumes/C030_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C031",
+                "resume_path": "resumes/C031_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C032",
+                "resume_path": "resumes/C032_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C033",
+                "resume_path": "resumes/C033_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C034",
+                "resume_path": "resumes/C034_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            },
+            {
+                "candidate_id": "C035",
+                "resume_path": "resumes/C035_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: React"
+                ]
+            }
+        ]
+    },
+    "JD004": {
+        "job_title": "Machine Learning Engineer",
+        "judgments": [
+            {
+                "candidate_id": "C001",
+                "resume_path": "resumes/C001_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C002",
+                "resume_path": "resumes/C002_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C003",
+                "resume_path": "resumes/C003_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C004",
+                "resume_path": "resumes/C004_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C005",
+                "resume_path": "resumes/C005_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C006",
+                "resume_path": "resumes/C006_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C007",
+                "resume_path": "resumes/C007_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C008",
+                "resume_path": "resumes/C008_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C009",
+                "resume_path": "resumes/C009_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C010",
+                "resume_path": "resumes/C010_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C011",
+                "resume_path": "resumes/C011_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C012",
+                "resume_path": "resumes/C012_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C013",
+                "resume_path": "resumes/C013_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C014",
+                "resume_path": "resumes/C014_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C015",
+                "resume_path": "resumes/C015_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C016",
+                "resume_path": "resumes/C016_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C017",
+                "resume_path": "resumes/C017_machine_learning_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C018",
+                "resume_path": "resumes/C018_machine_learning_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C019",
+                "resume_path": "resumes/C019_machine_learning_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C020",
+                "resume_path": "resumes/C020_machine_learning_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C021",
+                "resume_path": "resumes/C021_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C022",
+                "resume_path": "resumes/C022_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C023",
+                "resume_path": "resumes/C023_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C024",
+                "resume_path": "resumes/C024_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C025",
+                "resume_path": "resumes/C025_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Python, Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C026",
+                "resume_path": "resumes/C026_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C027",
+                "resume_path": "resumes/C027_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C028",
+                "resume_path": "resumes/C028_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C029",
+                "resume_path": "resumes/C029_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C030",
+                "resume_path": "resumes/C030_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C031",
+                "resume_path": "resumes/C031_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C032",
+                "resume_path": "resumes/C032_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C033",
+                "resume_path": "resumes/C033_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C034",
+                "resume_path": "resumes/C034_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            },
+            {
+                "candidate_id": "C035",
+                "resume_path": "resumes/C035_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Machine Learning"
+                ]
+            }
+        ]
+    },
+    "JD005": {
+        "job_title": "DevOps Engineer",
+        "judgments": [
+            {
+                "candidate_id": "C001",
+                "resume_path": "resumes/C001_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C002",
+                "resume_path": "resumes/C002_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C003",
+                "resume_path": "resumes/C003_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C004",
+                "resume_path": "resumes/C004_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C005",
+                "resume_path": "resumes/C005_python_backend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C006",
+                "resume_path": "resumes/C006_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C007",
+                "resume_path": "resumes/C007_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C008",
+                "resume_path": "resumes/C008_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C009",
+                "resume_path": "resumes/C009_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C010",
+                "resume_path": "resumes/C010_frontend_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C011",
+                "resume_path": "resumes/C011_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C012",
+                "resume_path": "resumes/C012_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C013",
+                "resume_path": "resumes/C013_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C014",
+                "resume_path": "resumes/C014_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C015",
+                "resume_path": "resumes/C015_full_stack_developer.pdf",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C016",
+                "resume_path": "resumes/C016_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C017",
+                "resume_path": "resumes/C017_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C018",
+                "resume_path": "resumes/C018_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C019",
+                "resume_path": "resumes/C019_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C020",
+                "resume_path": "resumes/C020_machine_learning_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C021",
+                "resume_path": "resumes/C021_devops_engineer.docx",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: AWS",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C022",
+                "resume_path": "resumes/C022_devops_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C023",
+                "resume_path": "resumes/C023_devops_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C024",
+                "resume_path": "resumes/C024_devops_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C025",
+                "resume_path": "resumes/C025_devops_engineer.docx",
+                "relevant": true,
+                "relevance_grade": 2,
+                "reasons": [
+                    "All mandatory skills and minimum experience requirements satisfied"
+                ]
+            },
+            {
+                "candidate_id": "C026",
+                "resume_path": "resumes/C026_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C027",
+                "resume_path": "resumes/C027_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C028",
+                "resume_path": "resumes/C028_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C029",
+                "resume_path": "resumes/C029_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C030",
+                "resume_path": "resumes/C030_data_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes"
+                ]
+            },
+            {
+                "candidate_id": "C031",
+                "resume_path": "resumes/C031_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes, AWS",
+                    "Insufficient experience"
+                ]
+            },
+            {
+                "candidate_id": "C032",
+                "resume_path": "resumes/C032_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C033",
+                "resume_path": "resumes/C033_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Docker, Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C034",
+                "resume_path": "resumes/C034_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes, AWS"
+                ]
+            },
+            {
+                "candidate_id": "C035",
+                "resume_path": "resumes/C035_qa_automation_engineer.txt",
+                "relevant": false,
+                "relevance_grade": 0,
+                "reasons": [
+                    "Missing mandatory skills: Kubernetes, AWS"
+                ]
+            }
+        ]
+    }
+}

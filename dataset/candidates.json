@@ -1,0 +1,623 @@
+[
+    {
+        "candidate_id": "C001",
+        "candidate_name": "Aarav Rao",
+        "role": "Python Backend Developer",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "FastAPI",
+            "SQL",
+            "Django",
+            "Git"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Built a REST API for an inventory platform",
+        "resume_path": "resumes/C001_python_backend_developer.pdf"
+    },
+    {
+        "candidate_id": "C002",
+        "candidate_name": "Ananya Singh",
+        "role": "Python Backend Developer",
+        "experience_years": 4,
+        "skills": [
+            "Python",
+            "FastAPI",
+            "REST APIs",
+            "PostgreSQL",
+            "Git",
+            "SQL"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Developed asynchronous order-processing services",
+        "resume_path": "resumes/C002_python_backend_developer.pdf"
+    },
+    {
+        "candidate_id": "C003",
+        "candidate_name": "Rohan Joshi",
+        "role": "Python Backend Developer",
+        "experience_years": 6,
+        "skills": [
+            "Python",
+            "FastAPI",
+            "REST APIs",
+            "SQL",
+            "Git",
+            "AWS",
+            "Django"
+        ],
+        "education": "M.Tech in Computer Science",
+        "project": "Implemented authentication and database APIs",
+        "resume_path": "resumes/C003_python_backend_developer.pdf"
+    },
+    {
+        "candidate_id": "C004",
+        "candidate_name": "Priya Gupta",
+        "role": "Python Backend Developer",
+        "experience_years": 8,
+        "skills": [
+            "Python",
+            "FastAPI",
+            "REST APIs",
+            "Redis",
+            "Django",
+            "SQL",
+            "AWS"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Built a REST API for an inventory platform",
+        "resume_path": "resumes/C004_python_backend_developer.pdf"
+    },
+    {
+        "candidate_id": "C005",
+        "candidate_name": "Kabir Mehta",
+        "role": "Python Backend Developer",
+        "experience_years": 10,
+        "skills": [
+            "Python",
+            "FastAPI",
+            "REST APIs",
+            "PostgreSQL",
+            "AWS",
+            "SQL",
+            "Django",
+            "Docker"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Developed asynchronous order-processing services",
+        "resume_path": "resumes/C005_python_backend_developer.pdf"
+    },
+    {
+        "candidate_id": "C006",
+        "candidate_name": "Meera Patel",
+        "role": "Frontend Developer",
+        "experience_years": 2,
+        "skills": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "REST APIs",
+            "Git",
+            "Jest"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Built a responsive analytics dashboard",
+        "resume_path": "resumes/C006_frontend_developer.pdf"
+    },
+    {
+        "candidate_id": "C007",
+        "candidate_name": "Aditya Verma",
+        "role": "Frontend Developer",
+        "experience_years": 4,
+        "skills": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "CSS",
+            "Jest",
+            "Git",
+            "Redux"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Developed reusable frontend components",
+        "resume_path": "resumes/C007_frontend_developer.pdf"
+    },
+    {
+        "candidate_id": "C008",
+        "candidate_name": "Sneha Kapoor",
+        "role": "Frontend Developer",
+        "experience_years": 6,
+        "skills": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "CSS",
+            "Angular",
+            "Jest",
+            "Redux",
+            "REST APIs"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Improved accessibility in a web application",
+        "resume_path": "resumes/C008_frontend_developer.pdf"
+    },
+    {
+        "candidate_id": "C009",
+        "candidate_name": "Arjun Nair",
+        "role": "Frontend Developer",
+        "experience_years": 8,
+        "skills": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "CSS",
+            "Angular",
+            "Redux",
+            "TypeScript",
+            "Jest"
+        ],
+        "education": "MCA",
+        "project": "Built a responsive analytics dashboard",
+        "resume_path": "resumes/C009_frontend_developer.pdf"
+    },
+    {
+        "candidate_id": "C010",
+        "candidate_name": "Isha Sharma",
+        "role": "Frontend Developer",
+        "experience_years": 10,
+        "skills": [
+            "JavaScript",
+            "React",
+            "HTML",
+            "CSS",
+            "TypeScript",
+            "Redux",
+            "Git",
+            "Jest",
+            "Angular"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Developed reusable frontend components",
+        "resume_path": "resumes/C010_frontend_developer.pdf"
+    },
+    {
+        "candidate_id": "C011",
+        "candidate_name": "Neha Rao",
+        "role": "Full Stack Developer",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "React",
+            "AWS",
+            "Docker",
+            "JavaScript"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Built a full-stack task management application",
+        "resume_path": "resumes/C011_full_stack_developer.pdf"
+    },
+    {
+        "candidate_id": "C012",
+        "candidate_name": "Vikram Singh",
+        "role": "Full Stack Developer",
+        "experience_years": 4,
+        "skills": [
+            "Python",
+            "React",
+            "SQL",
+            "Docker",
+            "FastAPI",
+            "JavaScript"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Implemented frontend and backend integrations",
+        "resume_path": "resumes/C012_full_stack_developer.pdf"
+    },
+    {
+        "candidate_id": "C013",
+        "candidate_name": "Tara Joshi",
+        "role": "Full Stack Developer",
+        "experience_years": 6,
+        "skills": [
+            "Python",
+            "React",
+            "SQL",
+            "Git",
+            "AWS",
+            "JavaScript",
+            "PostgreSQL"
+        ],
+        "education": "M.Tech in Computer Science",
+        "project": "Developed an internal project tracking platform",
+        "resume_path": "resumes/C013_full_stack_developer.pdf"
+    },
+    {
+        "candidate_id": "C014",
+        "candidate_name": "Nikhil Gupta",
+        "role": "Full Stack Developer",
+        "experience_years": 8,
+        "skills": [
+            "Python",
+            "React",
+            "SQL",
+            "Django",
+            "AWS",
+            "FastAPI",
+            "JavaScript"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Built a full-stack task management application",
+        "resume_path": "resumes/C014_full_stack_developer.pdf"
+    },
+    {
+        "candidate_id": "C015",
+        "candidate_name": "Diya Mehta",
+        "role": "Full Stack Developer",
+        "experience_years": 10,
+        "skills": [
+            "Python",
+            "React",
+            "SQL",
+            "Git",
+            "PostgreSQL",
+            "FastAPI",
+            "Django",
+            "JavaScript"
+        ],
+        "education": "MCA",
+        "project": "Implemented frontend and backend integrations",
+        "resume_path": "resumes/C015_full_stack_developer.pdf"
+    },
+    {
+        "candidate_id": "C016",
+        "candidate_name": "Aarav Patel",
+        "role": "Machine Learning Engineer",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Pandas",
+            "NumPy",
+            "AWS"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Developed a customer churn prediction model",
+        "resume_path": "resumes/C016_machine_learning_engineer.docx"
+    },
+    {
+        "candidate_id": "C017",
+        "candidate_name": "Ananya Verma",
+        "role": "Machine Learning Engineer",
+        "experience_years": 4,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "AWS",
+            "TensorFlow"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Built a text classification pipeline",
+        "resume_path": "resumes/C017_machine_learning_engineer.docx"
+    },
+    {
+        "candidate_id": "C018",
+        "candidate_name": "Rohan Kapoor",
+        "role": "Machine Learning Engineer",
+        "experience_years": 6,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "SQL",
+            "AWS",
+            "PyTorch",
+            "TensorFlow"
+        ],
+        "education": "M.Tech in Computer Science",
+        "project": "Evaluated a recommendation model",
+        "resume_path": "resumes/C018_machine_learning_engineer.docx"
+    },
+    {
+        "candidate_id": "C019",
+        "candidate_name": "Priya Nair",
+        "role": "Machine Learning Engineer",
+        "experience_years": 8,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "SQL",
+            "TensorFlow",
+            "AWS",
+            "NumPy"
+        ],
+        "education": "MCA",
+        "project": "Developed a customer churn prediction model",
+        "resume_path": "resumes/C019_machine_learning_engineer.docx"
+    },
+    {
+        "candidate_id": "C020",
+        "candidate_name": "Kabir Sharma",
+        "role": "Machine Learning Engineer",
+        "experience_years": 10,
+        "skills": [
+            "Python",
+            "Machine Learning",
+            "Scikit-learn",
+            "Pandas",
+            "SQL",
+            "Docker",
+            "TensorFlow",
+            "AWS"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Built a text classification pipeline",
+        "resume_path": "resumes/C020_machine_learning_engineer.docx"
+    },
+    {
+        "candidate_id": "C021",
+        "candidate_name": "Meera Rao",
+        "role": "DevOps Engineer",
+        "experience_years": 2,
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "Prometheus",
+            "Terraform",
+            "Jenkins"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Automated cloud infrastructure deployments",
+        "resume_path": "resumes/C021_devops_engineer.docx"
+    },
+    {
+        "candidate_id": "C022",
+        "candidate_name": "Aditya Singh",
+        "role": "DevOps Engineer",
+        "experience_years": 4,
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Prometheus",
+            "Linux",
+            "Git"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Created container-based deployment pipelines",
+        "resume_path": "resumes/C022_devops_engineer.docx"
+    },
+    {
+        "candidate_id": "C023",
+        "candidate_name": "Sneha Joshi",
+        "role": "DevOps Engineer",
+        "experience_years": 6,
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Terraform",
+            "Jenkins",
+            "Python",
+            "Linux"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Implemented monitoring for distributed services",
+        "resume_path": "resumes/C023_devops_engineer.docx"
+    },
+    {
+        "candidate_id": "C024",
+        "candidate_name": "Arjun Gupta",
+        "role": "DevOps Engineer",
+        "experience_years": 8,
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "CI/CD",
+            "Git",
+            "Prometheus",
+            "Python"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Automated cloud infrastructure deployments",
+        "resume_path": "resumes/C024_devops_engineer.docx"
+    },
+    {
+        "candidate_id": "C025",
+        "candidate_name": "Isha Mehta",
+        "role": "DevOps Engineer",
+        "experience_years": 10,
+        "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "Linux",
+            "Jenkins",
+            "CI/CD",
+            "Prometheus",
+            "Git"
+        ],
+        "education": "M.Tech in Computer Science",
+        "project": "Created container-based deployment pipelines",
+        "resume_path": "resumes/C025_devops_engineer.docx"
+    },
+    {
+        "candidate_id": "C026",
+        "candidate_name": "Neha Patel",
+        "role": "Data Engineer",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "SQL",
+            "AWS",
+            "Docker",
+            "Kafka"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Built a batch data ingestion pipeline",
+        "resume_path": "resumes/C026_data_engineer.txt"
+    },
+    {
+        "candidate_id": "C027",
+        "candidate_name": "Vikram Verma",
+        "role": "Data Engineer",
+        "experience_years": 4,
+        "skills": [
+            "Python",
+            "SQL",
+            "ETL",
+            "Airflow",
+            "Kafka",
+            "Docker"
+        ],
+        "education": "MCA",
+        "project": "Created an ETL workflow for analytics",
+        "resume_path": "resumes/C027_data_engineer.txt"
+    },
+    {
+        "candidate_id": "C028",
+        "candidate_name": "Tara Kapoor",
+        "role": "Data Engineer",
+        "experience_years": 6,
+        "skills": [
+            "Python",
+            "SQL",
+            "ETL",
+            "Apache Spark",
+            "Kafka",
+            "Pandas",
+            "Airflow"
+        ],
+        "education": "B.E. in Information Technology",
+        "project": "Optimized SQL transformations for reporting",
+        "resume_path": "resumes/C028_data_engineer.txt"
+    },
+    {
+        "candidate_id": "C029",
+        "candidate_name": "Nikhil Nair",
+        "role": "Data Engineer",
+        "experience_years": 8,
+        "skills": [
+            "Python",
+            "SQL",
+            "ETL",
+            "Kafka",
+            "Pandas",
+            "AWS",
+            "Apache Spark"
+        ],
+        "education": "MCA",
+        "project": "Built a batch data ingestion pipeline",
+        "resume_path": "resumes/C029_data_engineer.txt"
+    },
+    {
+        "candidate_id": "C030",
+        "candidate_name": "Diya Sharma",
+        "role": "Data Engineer",
+        "experience_years": 10,
+        "skills": [
+            "Python",
+            "SQL",
+            "ETL",
+            "AWS",
+            "Docker",
+            "Kafka",
+            "PostgreSQL",
+            "Pandas"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Created an ETL workflow for analytics",
+        "resume_path": "resumes/C030_data_engineer.txt"
+    },
+    {
+        "candidate_id": "C031",
+        "candidate_name": "Aarav Rao",
+        "role": "QA Automation Engineer",
+        "experience_years": 2,
+        "skills": [
+            "Python",
+            "Selenium",
+            "SQL",
+            "Docker",
+            "Pytest"
+        ],
+        "education": "M.Tech in Computer Science",
+        "project": "Developed automated regression tests",
+        "resume_path": "resumes/C031_qa_automation_engineer.txt"
+    },
+    {
+        "candidate_id": "C032",
+        "candidate_name": "Ananya Singh",
+        "role": "QA Automation Engineer",
+        "experience_years": 4,
+        "skills": [
+            "Python",
+            "Selenium",
+            "Testing",
+            "Docker",
+            "REST APIs",
+            "SQL"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Built an API testing framework",
+        "resume_path": "resumes/C032_qa_automation_engineer.txt"
+    },
+    {
+        "candidate_id": "C033",
+        "candidate_name": "Rohan Joshi",
+        "role": "QA Automation Engineer",
+        "experience_years": 6,
+        "skills": [
+            "Python",
+            "Selenium",
+            "Testing",
+            "REST APIs",
+            "Jenkins",
+            "Postman",
+            "SQL"
+        ],
+        "education": "B.Tech in Computer Science",
+        "project": "Integrated automated tests into CI/CD",
+        "resume_path": "resumes/C033_qa_automation_engineer.txt"
+    },
+    {
+        "candidate_id": "C034",
+        "candidate_name": "Priya Gupta",
+        "role": "QA Automation Engineer",
+        "experience_years": 8,
+        "skills": [
+            "Python",
+            "Selenium",
+            "Testing",
+            "SQL",
+            "Docker",
+            "REST APIs",
+            "Postman"
+        ],
+        "education": "M.Tech in Computer Science",
+        "project": "Developed automated regression tests",
+        "resume_path": "resumes/C034_qa_automation_engineer.txt"
+    },
+    {
+        "candidate_id": "C035",
+        "candidate_name": "Kabir Mehta",
+        "role": "QA Automation Engineer",
+        "experience_years": 10,
+        "skills": [
+            "Python",
+            "Selenium",
+            "Testing",
+            "Pytest",
+            "SQL",
+            "REST APIs",
+            "Postman",
+            "Docker"
+        ],
+        "education": "B.Sc. in Computer Science",
+        "project": "Built an API testing framework",
+        "resume_path": "resumes/C035_qa_automation_engineer.txt"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "job_id": "JD001",
+        "title": "Python Backend Developer",
+        "must_have_skills": [
+            "Python",
+            "FastAPI"
+        ],
+        "preferred_skills": [
+            "PostgreSQL",
+            "Docker",
+            "AWS"
+        ],
+        "min_experience": 5,
+        "job_description": "We are hiring a Python Backend Developer with at least 5 years of experience. Mandatory technical skills: Python, FastAPI. Preferred skills include: PostgreSQL, Docker, AWS. The candidate will collaborate with engineering teams to deliver reliable software solutions."
+    },
+    {
+        "job_id": "JD002",
+        "title": "Frontend Developer",
+        "must_have_skills": [
+            "React",
+            "JavaScript"
+        ],
+        "preferred_skills": [
+            "TypeScript",
+            "Angular",
+            "Jest"
+        ],
+        "min_experience": 3,
+        "job_description": "We are hiring a Frontend Developer with at least 3 years of experience. Mandatory technical skills: React, JavaScript. Preferred skills include: TypeScript, Angular, Jest. The candidate will collaborate with engineering teams to deliver reliable software solutions."
+    },
+    {
+        "job_id": "JD003",
+        "title": "Full Stack Developer",
+        "must_have_skills": [
+            "Python",
+            "React",
+            "SQL"
+        ],
+        "preferred_skills": [
+            "FastAPI",
+            "Docker",
+            "AWS"
+        ],
+        "min_experience": 4,
+        "job_description": "We are hiring a Full Stack Developer with at least 4 years of experience. Mandatory technical skills: Python, React, SQL. Preferred skills include: FastAPI, Docker, AWS. The candidate will collaborate with engineering teams to deliver reliable software solutions."
+    },
+    {
+        "job_id": "JD004",
+        "title": "Machine Learning Engineer",
+        "must_have_skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "preferred_skills": [
+            "PyTorch",
+            "TensorFlow",
+            "AWS"
+        ],
+        "min_experience": 3,
+        "job_description": "We are hiring a Machine Learning Engineer with at least 3 years of experience. Mandatory technical skills: Python, Machine Learning. Preferred skills include: PyTorch, TensorFlow, AWS. The candidate will collaborate with engineering teams to deliver reliable software solutions."
+    },
+    {
+        "job_id": "JD005",
+        "title": "DevOps Engineer",
+        "must_have_skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "preferred_skills": [
+            "Terraform",
+            "Jenkins",
+            "Linux"
+        ],
+        "min_experience": 4,
+        "job_description": "We are hiring a DevOps Engineer with at least 4 years of experience. Mandatory technical skills: Docker, Kubernetes, AWS. Preferred skills include: Terraform, Jenkins, Linux. The candidate will collaborate with engineering teams to deliver reliable software solutions."
+    }
+]

@@ -1,0 +1,20 @@
+Tara Kapoor
+Data Engineer
+
+PROFESSIONAL SUMMARY
+Data Engineer with 6 years of experience delivering software projects and collaborating with cross-functional teams.
+
+SKILLS
+Python, SQL, ETL, Apache Spark, Kafka, Pandas, Airflow
+
+EXPERIENCE
+6 years of professional experience.
+Worked as a Data Engineer on software development and delivery assignments.
+Applied the following technologies: Python, SQL, ETL, Apache Spark, Kafka, Pandas, Airflow.
+
+PROJECTS
+Optimized SQL transformations for reporting.
+Responsibilities included implementation, testing, documentation, and code reviews.
+
+EDUCATION
+B.E. in Information Technology
